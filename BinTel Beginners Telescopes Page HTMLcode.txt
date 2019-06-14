@@ -1,0 +1,2482 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="en-AU" prefix="og: http://ogp.me/ns#" class="ie9 loading-site no-js bg-fill"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en-AU" prefix="og: http://ogp.me/ns#" class="ie8 loading-site no-js bg-fill"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-AU" prefix="og: http://ogp.me/ns#" class="loading-site no-js bg-fill"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://www.bintel.com.au/xmlrpc.php" />
+
+					<script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Beginner Telescope Favourites - see our staff picks for your first scope!</title>
+			<style>
+				.wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
+		
+<!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Looking for the best beginner telescope? Ask the astronomy experts at Bintel, where we provide tailored service &amp; after-sales support second-to-none!"/>
+<link rel="canonical" href="https://www.bintel.com.au/product-category/telescopes/beginner/" />
+<link rel="next" href="https://www.bintel.com.au/product-category/telescopes/beginner/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Beginner Telescope Favourites - see our staff picks for your first scope!" />
+<meta property="og:description" content="Looking for the best beginner telescope? Ask the astronomy experts at Bintel, where we provide tailored service &amp; after-sales support second-to-none!" />
+<meta property="og:url" content="https://www.bintel.com.au/product-category/telescopes/beginner/" />
+<meta property="og:site_name" content="Bintel" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Looking for the best beginner telescope? Ask the astronomy experts at Bintel, where we provide tailored service &amp; after-sales support second-to-none!" />
+<meta name="twitter:title" content="Beginner Telescope Favourites - see our staff picks for your first scope!" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//d3k1w8lx8mqizo.cloudfront.net' />
+<link rel='dns-prefetch' href='//static.zipmoney.com.au' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bintel &raquo; Feed" href="https://www.bintel.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bintel &raquo; Comments Feed" href="https://www.bintel.com.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bintel &raquo; Beginner Telescopes Category Feed" href="https://www.bintel.com.au/product-category/telescopes/beginner/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bintel.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='init_enqueue_style-css'  href='https://www.bintel.com.au/wp-content/plugins/recently-viewed-and-most-viewed-products/assets/css/ced_init.css?ver=1.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='rvmv-select2-css-css'  href='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.bintel.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wgdr-css'  href='https://www.bintel.com.au/wp-content/plugins/woocommerce-google-dynamic-retargeting-tag/public/css/wgdr-frontend.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woof-css'  href='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-drop-down-css'  href='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-zipmoney-style-css'  href='https://www.bintel.com.au/wp-content/plugins/zipmoney-payments-woocommerce/assets/css/woocommerce-zipmoney-payment-front.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css'  href='https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/style.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://www.bintel.com.au/wp-content/themes/bintel/style.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-icons-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-ninjaforms-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/inc/integrations/ninjaforms/ninjaforms.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-woocommerce-wishlist-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-bundle-style-css'  href='https://www.bintel.com.au/wp-content/plugins/woocommerce-product-bundles/assets/css/wc-pb-frontend.css?ver=5.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-main-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-shop-css'  href='https://www.bintel.com.au/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-style-css'  href='https://www.bintel.com.au/wp-content/themes/bintel/style.css?ver=3.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bintel.com.au/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_request = {"ajax_url":"https:\/\/www.bintel.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/campaign-monitor-for-woocommerce/views/public/js/app.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://static.zipmoney.com.au/checkout/checkout-v1.js?ver=4.9.5'></script>
+<link rel='https://api.w.org/' href='https://www.bintel.com.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bintel.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bintel.com.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<meta name="generator" content="WooCommerce 3.3.5" />
+<script type='text/javascript'>
+var tminusnow = '{"now":"5\/1\/2018 17:19:49"}';
+</script><style>
+.jedi-hours_dash .jedi-minutes_dash .jedi-seconds_dash { float: none; } 
+</style>
+<!------ Starting: WooCommerce Conversion Tracking (https://wordpress.org/plugins/woocommerce-conversion-tracking/) ----->
+<!------ End: WooCommerce Conversion Tracking Codes ----->
+        <!--noptimize-->
+        <!-- Global site tag (gtag.js) - Google AdWords: 1065020204 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1065020204"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'AW-1065020204');
+        </script>
+        <!--/noptimize-->
+
+
+		<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.bintel.com.au/?wordfence_lh=1&hid=866543C0242EFA5DDCE3EEDBDD6281D5');
+</script><style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://www.bintel.com.au/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://www.bintel.com.au/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->    <script type="text/javascript">
+    WebFontConfig = {
+      google: { families: [ "Lato:regular,default","Lato:regular,default","Lato:regular,default","Dancing+Script:regular,default", ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })(); </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78293569-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '355022414869723'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=355022414869723&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style>
+			button.alert_button_hover:hover, button.unsubscribe_button:hover {
+				background: fbfbfb !important;
+				color: fbfbfb !important;
+				border-color: fbfbfb !important;
+			}
+		</style>
+<!-- WooCommerce Facebook Integration Begin -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '355022414869723', {}, {
+    "agent": "woocommerce-3.3.5-1.7.3"
+});
+
+fbq('track', 'PageView', {
+    "source": "woocommerce",
+    "version": "3.3.5",
+    "pluginVersion": "1.7.3"
+});
+
+<!-- Support AJAX add to cart -->
+if(typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($){
+    jQuery('body').on('added_to_cart', function(event) {
+
+      // Ajax action.
+      $.get('?wc-ajax=fb_inject_add_to_cart_event', function(data) {
+        $('head').append(data);
+      });
+
+    });
+  });
+}
+<!-- End Support AJAX add to cart -->
+
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- WooCommerce Facebook Integration end -->
+      <link rel="icon" href="https://www.bintel.com.au/wp-content/uploads/2016/07/cropped-favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.bintel.com.au/wp-content/uploads/2016/07/cropped-favicon-300x300.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.bintel.com.au/wp-content/uploads/2016/07/cropped-favicon-300x300.jpg" />
+<meta name="msapplication-TileImage" content="https://www.bintel.com.au/wp-content/uploads/2016/07/cropped-favicon-300x300.jpg" />
+<style id="custom-css" type="text/css">:root {--primary-color: #f4e302;}/* Site Width */#wrapper,#main,#main.dark{background-color: #FFF}.header-main{height: 120px}#logo img{max-height: 120px}#logo{width:210px;}.header-top{min-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 200px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.header-bg-color, .header-wrapper {background-color: #fff}.header-bottom {background-color: #eee}@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #f4e302;}/* Color !important */[data-text-color="primary"]{color: #f4e302!important;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #f4e302;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #f4e302}.nav-tabs > li.active > a{border-top-color: #f4e302}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #f4e302 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #f4e302 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #f4e302;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button{ background-color:#a3d32a; }/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #a3d32a}/* Color !important */[data-text-color="secondary"]{color: #a3d32a!important;}/* Border */.secondary.is-outline:hover{border-color:#a3d32a}body{font-family:"Lato", sans-serif}body{font-weight: 400}.nav > li > a {font-family:"Lato", sans-serif;}.nav > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Lato", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font{font-weight: 400!important;}a{color: #212121;}a:hover{color: #686868;}.tagcloud a:hover{border-color: #686868;background-color: #686868;}[data-icon-label]:after, .button#place_order,.button.checkout,.checkout-button,.single_add_to_cart_button.button{background-color: #0a0a0a!important }.badge-inner.on-sale{background-color: #ff3a3a}.badge-inner.new-bubble{background-color: #7a9c59}.shop-page-title.featured-title .title-bg{background-image: url(https://www.bintel.com.au/wp-content/uploads/2016/11/Untitled-2.png)!important;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 247px!important;width: 247px!important;}}.footer-1{background-color: #fff}.footer-2{background-color: #777}.absolute-footer, html{background-color: #333}.page-title-small + main .product-container > .row{padding-top:0;}#zip-tagline{display: inline-block !important;padding-bottom: 10px !important;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+ #zip-tagline > img{
+   transform: scale(1.5) !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+#product-18537 > div > div.product-main > div > div.product-info.summary.col-fit.col-divided.col.entry-summary.product-summary > form > div.widget-product > iframe{
+height: 40px !important;
+}
+
+#content > div > div > div > div > div.woocommerce.row.row-large.row-divided > div.cart-collaterals.large-5.col.pb-0 > div > div.cart_totals > div > div.widget-cart > iframe{
+height: 50px !important;
+}		</style>
+	  <script type="text/javascript">
+      var woof_is_permalink =1;
+
+      var woof_shop_page = "";
+  
+      var woof_really_curr_tax = {};
+      var woof_current_page_link = location.protocol + '//' + location.host + location.pathname;
+      //***lets remove pagination from woof_current_page_link
+      woof_current_page_link = woof_current_page_link.replace(/\page\/[0-9]+/, "");
+        var woof_link = 'https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/';
+
+                woof_really_curr_tax = {term_id:126, taxonomy: "product_cat"};
+            </script>
+
+  	<script>
+
+	    var woof_ajaxurl = "https://www.bintel.com.au/wp-admin/admin-ajax.php";
+
+	    var woof_lang = {
+		'orderby': "orderby",
+		'date': "date",
+		'perpage': "per page",
+		'pricerange': "price range",
+		'menu_order': "menu order",
+		'popularity': "popularity",
+		'rating': "rating",
+		'price': "price low to high",
+		'price-desc': "price high to low"
+	    };
+
+	    if (typeof woof_lang_custom == 'undefined') {
+		var woof_lang_custom = {};/*!!important*/
+	    }
+
+	//***
+
+	    var woof_is_mobile = 0;
+	
+
+
+	    var woof_show_price_search_button = 0;
+	    var woof_show_price_search_type = 0;
+	
+	    var woof_show_price_search_type = 0;
+
+	    var swoof_search_slug = "swoof";
+
+	
+	    var icheck_skin = {};
+		        icheck_skin = 'none';
+	
+	    var is_woof_use_chosen =1;
+
+	
+
+	    var woof_current_values = '[]';
+	//+++
+	    var woof_lang_loading = "Loading ...";
+
+	
+	    var woof_lang_show_products_filter = "show products filter";
+	    var woof_lang_hide_products_filter = "hide products filter";
+	    var woof_lang_pricerange = "price range";
+
+	//+++
+
+	    var woof_use_beauty_scroll =0;
+	//+++
+	    var woof_autosubmit =1;
+	    var woof_ajaxurl = "https://www.bintel.com.au/wp-admin/admin-ajax.php";
+	    /*var woof_submit_link = "";*/
+	    var woof_is_ajax = 0;
+	    var woof_ajax_redraw = 0;
+	    var woof_ajax_page_num =1;
+	    var woof_ajax_first_done = false;
+	    var woof_checkboxes_slide_flag = true;
+
+
+	//toggles
+	    var woof_toggle_type = "text";
+
+	    var woof_toggle_closed_text = "-";
+	    var woof_toggle_opened_text = "+";
+
+	    var woof_toggle_closed_image = "https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/img/plus3.png";
+	    var woof_toggle_opened_image = "https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/img/minus3.png";
+
+
+	//indexes which can be displayed in red buttons panel
+		    var woof_accept_array = ["min_price", "orderby", "perpage", ,"product_visibility","product_cat","product_tag","pa_1-25-filter-colour","pa_2-filter-colour","pa_accessory-package","pa_adapter-ring","pa_astronomik","pa_bahtinov-mask-type","pa_brand","pa_cameramodel","pa_colour","pa_condition","pa_counterweight-type","pa_dew-shield-size","pa_dioptrx","pa_dovetail-bar","pa_dust-covers","pa_dvr-size","pa_extension-length","pa_filter-housing-diameter","pa_focal-length","pa_heater-length","pa_iphone-model","pa_kit-type","pa_moon-filter-type","pa_promotion_id","pa_secondary-heater-type","pa_tls-apo","pa_upc","pa_zwo-filter-style"];
+
+	
+
+
+	//***
+	//for extensions
+
+	    var woof_ext_init_functions = null;
+	
+
+	
+	    var woof_overlay_skin = "default";
+
+
+	    jQuery(function () {
+		woof_current_values = jQuery.parseJSON(woof_current_values);
+		if (woof_current_values==null ||woof_current_values.length == 0) {
+		    woof_current_values = {};
+		}
+
+	    });
+
+	    function woof_js_after_ajax_done() {
+		jQuery(document).trigger('woof_ajax_done');
+		    }
+	</script>
+	<!-- WooCommerce Google Analytics Integration -->
+		<script type='text/javascript'>
+			var gaProperty = 'UA-78293569-1';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script>
+		<script type='text/javascript'>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga( 'create', 'UA-78293569-1', 'binocularandtelescope.com.au' );ga( 'require', 'displayfeatures' );ga( 'set', 'anonymizeIp', true );
+		ga( 'set', 'dimension1', 'no' );
+ga( 'require', 'ec' );</script>
+		<!-- /WooCommerce Google Analytics Integration --></head>
+
+<body class="archive tax-product_cat term-beginner term-126 woocommerce woocommerce-page ywcas-flatsome-child full-width bg-fill lightbox nav-dropdown-has-arrow">
+
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+
+<header id="header" class="header has-sticky sticky-jump">
+   <div class="header-wrapper">
+	<div id="top-bar" class="header-top hide-for-sticky nav-dark hide-for-medium">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-divided">
+              <li class="html custom html_topbar_left"><strong>Australia's Largest Binocular and Telescope Store</strong></li>          </ul>
+      </div><!-- flex-col left -->
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-divided">
+                        </ul>
+      </div><!-- center -->
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
+              <li id="menu-item-9457" class="sale menu-item menu-item-type-post_type menu-item-object-page  menu-item-9457"><a href="https://www.bintel.com.au/on-sale/" class="nav-top-link">Sale</a></li>
+<li id="menu-item-9339" class="wishlist menu-item menu-item-type-post_type menu-item-object-page  menu-item-9339"><a href="https://www.bintel.com.au/wishlist/" class="nav-top-link">Wishlist</a></li>
+<li id="menu-item-9432" class="giftideas menu-item menu-item-type-custom menu-item-object-custom  menu-item-9432"><a href="/new-in-store/" class="nav-top-link">New in Store</a></li>
+<li id="menu-item-18334" class="insta menu-item menu-item-type-custom menu-item-object-custom  menu-item-18334"><a href="https://www.instagram.com/bintel_astronomy/" class="nav-top-link"> </a></li>
+<li id="menu-item-18335" class="facebook menu-item menu-item-type-custom menu-item-object-custom  menu-item-18335"><a href="https://www.facebook.com/bintelshop/" class="nav-top-link"> </a></li>
+<li id="menu-item-9340" class="contact menu-item menu-item-type-post_type menu-item-object-page  menu-item-9340"><a href="https://www.bintel.com.au/contact-us/" class="nav-top-link">Contact</a></li>
+<li id="menu-item-9341" class="phone menu-item menu-item-type-custom menu-item-object-custom  menu-item-9341"><a href="#" class="nav-top-link"><span class="number">02 9518 7255</span></a></li>
+          </ul>
+      </div><!-- .flex-col right -->
+
+      
+    </div><!-- .flex-row -->
+</div><!-- #header-top -->
+<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            <!-- Header logo -->
+<a href="https://www.bintel.com.au/" title="Bintel - Largest Australian Binocular and Telescope Store" rel="home">
+    <img width="210" height="120" src="https://www.bintel.com.au/wp-content/uploads/2016/03/bintel-logo-large.png" class="header_logo header-logo" alt="Bintel"/><img  width="210" height="120" src="https://www.bintel.com.au/wp-content/uploads/2016/03/bintel-logo-large.png" class="header-logo-dark" alt="Bintel"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-size-80% nav-uppercase" >
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form- is-normal"><form role="search" method="get" class="searchform" action="https://www.bintel.com.au/">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Search&hellip;" />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-size-80% nav-uppercase">
+              <li class="account-item has-icon
+    "
+>
+
+<a href="https://www.bintel.com.au/my-account/"
+    class="nav-top-link nav-top-not-logged-in "
+      >
+    <span>
+    Login      </span>
+  
+</a><!-- .account-login-link -->
+
+
+
+</li>
+<li class="header-divider"></li><li class="cart-item has-icon has-dropdown">
+
+<a href="https://www.bintel.com.au/basket/" title="Cart" class="header-cart-link is-small">
+
+
+<span class="header-cart-title">
+   Cart   /      <span class="cart-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</span></span>
+  </span>
+
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span>
+  </a>
+
+ <ul class="nav-dropdown nav-dropdown-default">
+    <li class="html widget_shopping_cart">
+      <div class="widget_shopping_cart_content">
+        
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+
+			<script>
+			(function($) {
+				$( '.remove' ).click( function() {
+					ga( 'ec:addProduct', {
+						'id': ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id')),
+						'quantity': $(this).parent().parent().find( '.qty' ).val() ? $(this).parent().parent().find( '.qty' ).val() : '1',
+					} );
+					ga( 'ec:setAction', 'remove' );
+					ga( 'send', 'event', 'UX', 'click', 'remove from cart' );
+				});
+			})(jQuery);
+			</script>
+		      </div>
+    </li>
+     </ul><!-- .nav-dropdown -->
+
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+      <a href="https://www.bintel.com.au/basket/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Cart" data-pos="right">
+  
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span> 
+  </a>
+
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+  <div class="cart-popup-inner inner-padding">
+      <div class="cart-popup-title text-center">
+          <h4 class="uppercase">Cart</h4>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget_shopping_cart_content">
+          
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+
+			<script>
+			(function($) {
+				$( '.remove' ).click( function() {
+					ga( 'ec:addProduct', {
+						'id': ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id')),
+						'quantity': $(this).parent().parent().find( '.qty' ).val() ? $(this).parent().parent().find( '.qty' ).val() : '1',
+					} );
+					ga( 'ec:setAction', 'remove' );
+					ga( 'send', 'event', 'UX', 'click', 'remove from cart' );
+				});
+			})(jQuery);
+			</script>
+		      </div>
+             <div class="cart-sidebar-content relative"></div>  </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+      </div><!-- .header-inner -->
+     
+            <!-- Header divider -->
+      <div class="container"><div class="top-divider full-width"></div></div>
+      </div><!-- .header-main --><div id="wide-nav" class="header-bottom wide-nav flex-has-center hide-for-medium">
+    <div class="flex-row container">
+
+            
+                        <div class="flex-col hide-for-medium flex-center">
+                <ul class="nav header-nav header-bottom-nav nav-center  nav-uppercase">
+                    <li class="header-search header-search-dropdown has-icon has-dropdown menu-item-has-children">
+		<a href="#" class="is-small"><i class="icon-search" ></i></a>
+		<ul class="nav-dropdown nav-dropdown-default">
+	 	<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form- is-normal"><form role="search" method="get" class="searchform" action="https://www.bintel.com.au/">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Search&hellip;" />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>	</ul><!-- .nav-dropdown -->
+</li>
+<li id="menu-item-29" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children  menu-item-29 has-dropdown"><a href="/product-category/telescopes/" class="nav-top-link"><i class="icon-telescope" ></i>Telescopes<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-8780" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item  menu-item-8780"><a href="/product-category/telescopes/beginner">Beginner Telescopes</a></li>
+	<li id="menu-item-12439" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12439"><a href="/product-category/telescopes/kids/">Kids Telescopes</a></li>
+	<li id="menu-item-8771" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8771"><a href="/product-category/telescopes/computerised/">Computerised Telescopes</a></li>
+	<li id="menu-item-32" class="label-popular menu-item menu-item-type-custom menu-item-object-custom  menu-item-32"><a href="/product-category/telescopes/celestron-telescopes/">Celestron Telescopes</a></li>
+	<li id="menu-item-12444" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12444"><a href="/product-category/telescopes/skywatcher/">Skywatcher Telescopes</a></li>
+	<li id="menu-item-8767" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8767"><a href="/product-category/telescopes/dobsonian/">Dobsonian Telescopes</a></li>
+	<li id="menu-item-8889" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8889"><a href="/product-category/telescopes/reflectors">Reflector Telescopes</a></li>
+	<li id="menu-item-8769" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8769"><a href="/product-category/telescopes/cassegrain/">Cassegrain Telescopes</a></li>
+	<li id="menu-item-8768" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8768"><a href="/product-category/telescopes/refractor/">Refractor Telescopes</a></li>
+	<li id="menu-item-8770" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8770"><a href="/product-category/telescopes/premiumrefractors/">Premium Refractor  Telescopes</a></li>
+	<li id="menu-item-10123" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-10123"><a href="/product-category/telescopes/solar-telescopes/">Solar Telescopes</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-28 has-dropdown"><a href="/product-category/binoculars/" class="nav-top-link"><i class="icon-binoculars" ></i>Binoculars<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-8779" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8779"><a href="/product-category/binoculars/all-rounder-favourites">All-Rounder Binoculars</a></li>
+	<li id="menu-item-8777" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8777"><a href="/product-category/binoculars/astronomy-favourites">Astronomy Binoculars</a></li>
+	<li id="menu-item-8772" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8772"><a href="/product-category/binoculars/birdwatching-favourites">Birdwatching Binoculars</a></li>
+	<li id="menu-item-8773" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8773"><a href="/product-category/binoculars/swarovski">Swarovski Binoculars</a></li>
+	<li id="menu-item-8775" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8775"><a href="/product-category/binoculars/nikon">Nikon Binoculars</a></li>
+	<li id="menu-item-9495" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-9495"><a href="/product-category/binoculars/celestron-binoculars/">Celestron Binoculars</a></li>
+	<li id="menu-item-8808" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8808"><a href="/product-category/binoculars/bushnell">Bushnell Binoculars</a></li>
+	<li id="menu-item-12384" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12384"><a href="/product-category/binoculars/orion-binoculars">Orion Binoculars</a></li>
+	<li id="menu-item-8776" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8776"><a href="/product-category/binoculars/pentax">Pentax Binoculars</a></li>
+	<li id="menu-item-8810" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8810"><a href="/product-category/binoculars/steiner">Steiner Binoculars</a></li>
+	<li id="menu-item-8838" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8838"><a href="/product-category/binoculars/binocular-accessories">Binocular Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-8781" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-8781 has-dropdown"><a href="/product-category/spotting-scope/" class="nav-top-link"><i class="icon-spottingscope" ></i>Spotting Scopes<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-8804" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8804"><a href="/product-category/spotting-scope/angled-spotting-scopes/">Angled Spotting Scopes</a></li>
+	<li id="menu-item-12720" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12720"><a href="/product-category/spotting-scope/straight-spotting-scopes/">Straight Spotting Scopes</a></li>
+	<li id="menu-item-12568" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12568"><a href="/product-category/spotting-scopes/swarovski-spotting-scopes/">Swarovski Spotting Scopes</a></li>
+	<li id="menu-item-8806" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8806"><a href="/product-category/spotting-scopes/spotting-scope-accessories">Spotting Scope Accessories</a></li>
+	<li id="menu-item-8805" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8805"><a href="/product-category/spotting-scopes/digiscoping">Digiscoping</a></li>
+	<li id="menu-item-8807" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8807"><a href="/product-category/mounts-and-tripods/tripods">Tripods</a></li>
+</ul>
+</li>
+<li id="menu-item-8799" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-8799 has-dropdown"><a href="/product-category/mounts-tripods" class="nav-top-link"><i class="icon-tripod" ></i>Mounts &#038; Tripods<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-8801" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8801"><a href="/product-category/mounts-and-tripods/eq-mounts">EQ Mounts</a></li>
+	<li id="menu-item-8802" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8802"><a href="/product-category/mounts-and-tripods/az-mounts">AZ Mounts</a></li>
+	<li id="menu-item-8803" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8803"><a href="/product-category/mounts-and-tripods/counterweights">Counterweights</a></li>
+	<li id="menu-item-8800" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8800"><a href="/product-category/mounts-and-tripods/tripods">Tripods</a></li>
+	<li id="menu-item-8895" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8895"><a href="/product-category/mounts-and-tripods/mount-accessories">Mount Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-8784" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-8784 has-dropdown"><a href="/product-category/imaging/" class="nav-top-link"><i class="icon-imaging" ></i>Imaging<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-9485" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-9485"><a href="/product-category/imaging/deep-sky-imaging">Deep Sky Imaging</a></li>
+	<li id="menu-item-9486" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-9486"><a href="/product-category/imaging/planetary-imaging">Planetary Imaging</a></li>
+	<li id="menu-item-8786" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8786"><a href="/product-category/imaging/atik-cameras">Atik Cameras</a></li>
+	<li id="menu-item-8785" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8785"><a href="/product-category/imaging/zwo-cameras">ZWO Cameras</a></li>
+	<li id="menu-item-12157" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12157"><a href="/product-category/imaging/sbig-cameras">SBIG Cameras</a></li>
+	<li id="menu-item-8787" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8787"><a href="/product-category/imaging/fli-cameras">FLI Cameras</a></li>
+	<li id="menu-item-8790" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8790"><a href="/product-category/imaging/autoguiding">Autoguiding</a></li>
+	<li id="menu-item-10638" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-10638"><a href="/product-category/imaging/camera-adapters">Camera Adapters</a></li>
+	<li id="menu-item-18530" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-18530"><a href="/product-category/other/filter-wheels/">Filter Wheels</a></li>
+	<li id="menu-item-8791" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8791"><a href="/product-category/imaging/imaging-accessories">Imaging Accessories</a></li>
+	<li id="menu-item-11383" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-11383"><a href="/product-category/imaging/reducers-correctors-flatteners">Reducers, Correctors &#038; Flatteners</a></li>
+</ul>
+</li>
+<li id="menu-item-13759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-13759 has-dropdown"><a href="/product-category/eyepieces-and-barlows/" class="nav-top-link">Eyepieces &#038; Barlows<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-13763" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-13763"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/standard-eyepieces/">Standard Eyepieces</a></li>
+	<li id="menu-item-13762" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-13762"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/specialtyeyepieces/">Specialty Eyepieces</a></li>
+	<li id="menu-item-13764" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-13764"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/">Televue Eyepieces</a></li>
+	<li id="menu-item-13761" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-13761"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/eyepiecekit/">Eyepiece Kits</a></li>
+	<li id="menu-item-13760" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-13760"><a href="/product-category/eyepieces-and-barlows/barlows-power-mates/">Barlows &#038; Powermates</a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="has-icon-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  menu-item-31 has-dropdown"><a href="/product-category/accessories/" class="nav-top-link"><i class="icon-accessories" ></i>Accessories<i class="icon-angle-down" ></i></a>
+<ul class='nav-dropdown nav-dropdown-default'>
+	<li id="menu-item-8793" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8793"><a href="/product-category/other/adapters">Adapters &#038; Extensions</a></li>
+	<li id="menu-item-8794" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8794"><a href="/product-category/other/books-software">Books &#038; Software</a></li>
+	<li id="menu-item-8795" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8795"><a href="/product-category/other/collimation">Collimation</a></li>
+	<li id="menu-item-8925" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8925"><a href="/product-category/other/cases-covers">Cases &#038; Covers</a></li>
+	<li id="menu-item-17521" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-17521"><a href="/product-category/other/cleaning">Cleaning &#038; Maintenance</a></li>
+	<li id="menu-item-8796" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8796"><a href="/product-category/other/dew-control">Dew Control</a></li>
+	<li id="menu-item-12393" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12393"><a href="/product-category/other/dovetail-bars">Dovetail Bars &#038; Plates</a></li>
+	<li id="menu-item-10497" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-10497"><a href="/product-category/other/diagonals">Diagonals</a></li>
+	<li id="menu-item-9515" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-9515"><a href="/product-category/other/filters/">Filters</a></li>
+	<li id="menu-item-8798" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8798"><a href="/product-category/other/finderscopes">Finderscopes</a></li>
+	<li id="menu-item-8792" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8792"><a href="/product-category/other/magnifiers">Magnifiers</a></li>
+	<li id="menu-item-8933" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-8933"><a href="/product-category/other/mirrors-focusers">Mirrors &#038; Focusers</a></li>
+	<li id="menu-item-11304" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-11304"><a href="/product-category/other/power">Power, Torches &#038; Cables</a></li>
+	<li id="menu-item-10122" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-10122"><a href="/product-category/adapters-accessories/solarfilters/">Solar Filters</a></li>
+	<li id="menu-item-12395" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-12395"><a href="/product-category/other/rings">Tube &#038; Guide Rings</a></li>
+</ul>
+</li>
+<li id="menu-item-20266" class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-20266"><a href="https://www.bintel.com.au/zippay/" class="nav-top-link">Pay Later</a></li>
+                </ul>
+            </div><!-- flex-col -->
+            
+            
+            
+    </div><!-- .flex-row -->
+</div><!-- .header-bottom -->
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div><!-- .header-bg-container -->   </div><!-- header-wrapper-->
+</header>
+
+<div class="shop-page-title category-page-title page-title ">
+
+	<div class="page-title-inner flex-row  medium-flex-wrap container">
+	  <div class="flex-col flex-grow medium-text-center">
+	  	 	 <div class="is-breadcrumb-normal">
+  <nav class="woocommerce-breadcrumb breadcrumbs"><a href="https://www.bintel.com.au">Home</a> <span class="divider">&#47;</span> <a href="https://www.bintel.com.au/product-category/telescopes/">Telescopes</a> <span class="divider">&#47;</span> Beginner Telescopes</nav></div>
+<div class="category-filtering category-filter-row show-for-medium">
+	<a href="#" data-open="#shop-sidebar" data-visible-after="true" data-pos="left" class="filter-button uppercase plain">
+		<i class="icon-menu"></i>
+		<strong>Filter</strong>
+	</a>
+	<div class="inline-block">
+			</div>
+</div>
+	  </div><!-- .flex-left -->
+	  
+	   <div class="flex-col medium-text-center">
+	  	 	
+
+<p class="woocommerce-result-count hide-for-medium">
+	Showing 1&ndash;12 of 22 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby">
+					<option value="popularity"  selected='selected'>Sort by popularity</option>
+					<option value="date" >Sort by newness</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+	   </div><!-- .flex-right -->
+	   
+	</div><!-- flex-row -->
+</div><!-- .page-title -->
+
+<main id="main" class="">
+<div class="row category-page-row">
+
+		<div class="col large-3 hide-for-medium ">
+			<div id="shop-sidebar" class="sidebar-inner col-inner">
+				<aside id="woocommerce_product_categories-2" class="widget woocommerce widget_product_categories"><span class="widget-title shop-sidebar">Product Categories</span><div class="is-divider small"></div><ul class="product-categories"><li class="cat-item cat-item-127 cat-parent"><a href="https://www.bintel.com.au/product-category/accessories/">Accessories</a><ul class='children'>
+<li class="cat-item cat-item-18"><a href="https://www.bintel.com.au/product-category/accessories/adapters/">Adapters &amp; Extensions</a></li>
+<li class="cat-item cat-item-514"><a href="https://www.bintel.com.au/product-category/accessories/books-software/">Books &amp; Software</a></li>
+<li class="cat-item cat-item-268"><a href="https://www.bintel.com.au/product-category/accessories/cases-covers/">Cases &amp; Covers</a></li>
+<li class="cat-item cat-item-1360"><a href="https://www.bintel.com.au/product-category/accessories/cleaning/">Cleaning &amp; Maintenance</a></li>
+<li class="cat-item cat-item-42"><a href="https://www.bintel.com.au/product-category/accessories/collimation/">Collimation</a></li>
+<li class="cat-item cat-item-44"><a href="https://www.bintel.com.au/product-category/accessories/dew-control/">Dew Control</a></li>
+<li class="cat-item cat-item-814"><a href="https://www.bintel.com.au/product-category/accessories/diagonals/">Diagonals</a></li>
+<li class="cat-item cat-item-1092"><a href="https://www.bintel.com.au/product-category/accessories/dovetail-bars/">Dovetail Bars &amp; Plates</a></li>
+<li class="cat-item cat-item-274"><a href="https://www.bintel.com.au/product-category/accessories/filters/">Filters</a></li>
+<li class="cat-item cat-item-34"><a href="https://www.bintel.com.au/product-category/accessories/finderscopes/">Finderscopes</a></li>
+<li class="cat-item cat-item-135"><a href="https://www.bintel.com.au/product-category/accessories/magnifiers/">Magnifiers</a></li>
+<li class="cat-item cat-item-515"><a href="https://www.bintel.com.au/product-category/accessories/mirrors-focusers/">Mirrors &amp; Focusers</a></li>
+<li class="cat-item cat-item-827"><a href="https://www.bintel.com.au/product-category/accessories/power/">Power, Torches &amp; Cables</a></li>
+<li class="cat-item cat-item-703"><a href="https://www.bintel.com.au/product-category/accessories/solarfilters/">Solar Filters</a></li>
+<li class="cat-item cat-item-1093"><a href="https://www.bintel.com.au/product-category/accessories/rings/">Tube &amp; Guide Rings</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-45 cat-parent"><a href="https://www.bintel.com.au/product-category/binoculars/">Binoculars</a><ul class='children'>
+<li class="cat-item cat-item-124"><a href="https://www.bintel.com.au/product-category/binoculars/all-rounder-favourites/">All-Rounder Binoculars</a></li>
+<li class="cat-item cat-item-123"><a href="https://www.bintel.com.au/product-category/binoculars/astronomy-favourites/">Astronomy Binoculars</a></li>
+<li class="cat-item cat-item-204"><a href="https://www.bintel.com.au/product-category/binoculars/binocular-accessories/">Binocular Accessories</a></li>
+<li class="cat-item cat-item-113"><a href="https://www.bintel.com.au/product-category/binoculars/birdwatching-favourites/">Birdwatching Binoculars</a></li>
+<li class="cat-item cat-item-144"><a href="https://www.bintel.com.au/product-category/binoculars/bushnell/">Bushnell Binoculars</a></li>
+<li class="cat-item cat-item-512"><a href="https://www.bintel.com.au/product-category/binoculars/celestron-binoculars/">Celestron Binoculars</a></li>
+<li class="cat-item cat-item-112"><a href="https://www.bintel.com.au/product-category/binoculars/nikon/">Nikon Binoculars</a></li>
+<li class="cat-item cat-item-728"><a href="https://www.bintel.com.au/product-category/binoculars/orion-binoculars/">Orion Binoculars</a></li>
+<li class="cat-item cat-item-110"><a href="https://www.bintel.com.au/product-category/binoculars/pentax/">Pentax Binoculars</a></li>
+<li class="cat-item cat-item-145"><a href="https://www.bintel.com.au/product-category/binoculars/steiner/">Steiner Binoculars</a></li>
+<li class="cat-item cat-item-111"><a href="https://www.bintel.com.au/product-category/binoculars/swarovski/">Swarovski Binoculars</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-513 cat-parent"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/">Eyepieces and Barlows</a><ul class='children'>
+<li class="cat-item cat-item-553"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/barlows-power-mates/">Barlows &amp; Powermates</a></li>
+<li class="cat-item cat-item-1031"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/eyepiecekit/">Eyepiece Kits</a></li>
+<li class="cat-item cat-item-714"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/specialtyeyepieces/">Specialty Eyepieces</a></li>
+<li class="cat-item cat-item-552"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/standard-eyepieces/">Standard Eyepieces</a></li>
+<li class="cat-item cat-item-185 cat-parent"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/">Tele Vue Eyepieces</a>	<ul class='children'>
+<li class="cat-item cat-item-1167"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/barlows-powermates/">Barlows &amp; Powermates</a></li>
+<li class="cat-item cat-item-1165"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/delite/">DeLite</a></li>
+<li class="cat-item cat-item-1163"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/delos/">Delos</a></li>
+<li class="cat-item cat-item-1358"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/dioptrx/">Dioptrx</a></li>
+<li class="cat-item cat-item-1164"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/ethos/">Ethos</a></li>
+<li class="cat-item cat-item-1168"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/nagler/">Nagler</a></li>
+<li class="cat-item cat-item-1170"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/panoptic/">Panoptic</a></li>
+<li class="cat-item cat-item-1166"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/plossl/">Plossl</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-534"><a href="https://www.bintel.com.au/product-category/gift/">Gift Ideas</a></li>
+<li class="cat-item cat-item-128 cat-parent"><a href="https://www.bintel.com.au/product-category/imaging/">Imaging</a><ul class='children'>
+<li class="cat-item cat-item-129"><a href="https://www.bintel.com.au/product-category/imaging/atik-cameras/">Atik Cameras</a></li>
+<li class="cat-item cat-item-130"><a href="https://www.bintel.com.au/product-category/imaging/autoguiding/">Autoguiding</a></li>
+<li class="cat-item cat-item-850"><a href="https://www.bintel.com.au/product-category/imaging/camera-adapters/">Camera Adapters</a></li>
+<li class="cat-item cat-item-329"><a href="https://www.bintel.com.au/product-category/imaging/deep-sky-imaging/">Deep Sky Imaging</a></li>
+<li class="cat-item cat-item-1396"><a href="https://www.bintel.com.au/product-category/imaging/filter-wheels/">Filter Wheels &amp; Imaging Filters</a></li>
+<li class="cat-item cat-item-132"><a href="https://www.bintel.com.au/product-category/imaging/fli-cameras/">FLI Cameras</a></li>
+<li class="cat-item cat-item-423"><a href="https://www.bintel.com.au/product-category/imaging/imaging-accessories/">Imaging Accessories</a></li>
+<li class="cat-item cat-item-321"><a href="https://www.bintel.com.au/product-category/imaging/planetary-imaging/">Planetary Imaging</a></li>
+<li class="cat-item cat-item-1026"><a href="https://www.bintel.com.au/product-category/imaging/reducers-correctors-flatteners/">Reducers, Correctors &amp; Flatteners</a></li>
+<li class="cat-item cat-item-1070"><a href="https://www.bintel.com.au/product-category/imaging/sbig-cameras/">SBIG Cameras</a></li>
+<li class="cat-item cat-item-105"><a href="https://www.bintel.com.au/product-category/imaging/zwo-cameras/">ZWO Cameras</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-47 cat-parent"><a href="https://www.bintel.com.au/product-category/mounts-tripods/">Mounts &amp; Tripods</a><ul class='children'>
+<li class="cat-item cat-item-142"><a href="https://www.bintel.com.au/product-category/mounts-tripods/az-mounts/">Alt Azimuth Mounts</a></li>
+<li class="cat-item cat-item-143"><a href="https://www.bintel.com.au/product-category/mounts-tripods/counterweights/">Counterweights</a></li>
+<li class="cat-item cat-item-140"><a href="https://www.bintel.com.au/product-category/mounts-tripods/eq-mounts/">Equatorial Mounts</a></li>
+<li class="cat-item cat-item-258"><a href="https://www.bintel.com.au/product-category/mounts-tripods/mount-accessories/">Mount Accessories</a></li>
+<li class="cat-item cat-item-141"><a href="https://www.bintel.com.au/product-category/mounts-tripods/tripods/">Tripods</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-64 cat-parent"><a href="https://www.bintel.com.au/product-category/spotting-scope/">Spotting Scopes</a><ul class='children'>
+<li class="cat-item cat-item-138"><a href="https://www.bintel.com.au/product-category/spotting-scope/angled-spotting-scopes/">Angled Spotting Scopes</a></li>
+<li class="cat-item cat-item-137"><a href="https://www.bintel.com.au/product-category/spotting-scope/digiscoping/">Digiscoping</a></li>
+<li class="cat-item cat-item-139"><a href="https://www.bintel.com.au/product-category/spotting-scope/spotting-scope-accessories/">Spotting Scope Accessories</a></li>
+<li class="cat-item cat-item-1116"><a href="https://www.bintel.com.au/product-category/spotting-scope/straight-spotting-scopes/">Straight Spotting Scopes</a></li>
+<li class="cat-item cat-item-1114"><a href="https://www.bintel.com.au/product-category/spotting-scope/swarovski-spotting-scopes/">Swarovski Spotting Scopes</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-13 cat-parent current-cat-parent"><a href="https://www.bintel.com.au/product-category/telescopes/">Telescopes</a><ul class='children'>
+<li class="cat-item cat-item-624"><a href="https://www.bintel.com.au/product-category/telescopes/astrographs/">Astrograph Telescopes</a></li>
+<li class="cat-item cat-item-126 current-cat"><a href="https://www.bintel.com.au/product-category/telescopes/beginner/">Beginner Telescopes</a></li>
+<li class="cat-item cat-item-15"><a href="https://www.bintel.com.au/product-category/telescopes/cassegrain/">Cassegrain Telescopes</a></li>
+<li class="cat-item cat-item-1362"><a href="https://www.bintel.com.au/product-category/telescopes/celestron-edgehd/">Celestron EdgeHD</a></li>
+<li class="cat-item cat-item-14"><a href="https://www.bintel.com.au/product-category/telescopes/celestron-telescopes/">Celestron Telescopes</a></li>
+<li class="cat-item cat-item-120"><a href="https://www.bintel.com.au/product-category/telescopes/computerised/">Computerised Telescopes</a></li>
+<li class="cat-item cat-item-119"><a href="https://www.bintel.com.au/product-category/telescopes/dobsonian/">Dobsonian Telescopes</a></li>
+<li class="cat-item cat-item-1098"><a href="https://www.bintel.com.au/product-category/telescopes/kids/">Kids Telescopes</a></li>
+<li class="cat-item cat-item-122"><a href="https://www.bintel.com.au/product-category/telescopes/premiumrefractors/">Premium Refractor Telescopes</a></li>
+<li class="cat-item cat-item-252"><a href="https://www.bintel.com.au/product-category/telescopes/reflectors/">Reflector Telescopes</a></li>
+<li class="cat-item cat-item-121"><a href="https://www.bintel.com.au/product-category/telescopes/refractor/">Refractor Telescopes</a></li>
+<li class="cat-item cat-item-1102"><a href="https://www.bintel.com.au/product-category/telescopes/skywatcher/">Skywatcher Telescopes</a></li>
+<li class="cat-item cat-item-614"><a href="https://www.bintel.com.au/product-category/telescopes/solar-telescopes/">Solar Telescopes</a></li>
+<li class="cat-item cat-item-623"><a href="https://www.bintel.com.au/product-category/telescopes/televue-telescopes/">TeleVue Telescopes</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-1753"><a href="https://www.bintel.com.au/product-category/uncategorised/">Uncategorised</a></li>
+</ul></aside><aside id="text-4" class="widget widget_text"><span class="widget-title shop-sidebar">Have a Question About This Product?</span><div class="is-divider small"></div>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f10097-o1" lang="en-AU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/product-category/telescopes/beginner/#wpcf7-f10097-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="10097" />
+<input type="hidden" name="_wpcf7_version" value="5.0.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_AU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f10097-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p><img src="https://www.bintel.com.au/wp-content/uploads/2016/03/ask-an-expert2.jpg"><br />
+<span class="wpcf7-form-control-wrap enquiry"><textarea name="enquiry" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="I have a question about ..."></textarea></span></p>
+<p><span class="wpcf7-form-control-wrap yourname"><input type="text" name="yourname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name..." /></span> </p>
+<p><span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone Number..." /></span></p>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email..." /></span> </p>
+<p>Please enter code: <input type="hidden" name="_wpcf7_captcha_challenge_captcha-259" value="3146432230" /><img class="wpcf7-form-control wpcf7-captchac wpcf7-captcha-captcha-259" width="72" height="24" alt="captcha" src="https://www.bintel.com.au/wp-content/uploads/wpcf7_captcha/3146432230.png" /></p>
+<p><span class="wpcf7-form-control-wrap captcha-259"><input type="text" name="captcha-259" value="" size="40" class="wpcf7-form-control wpcf7-captchar" autocomplete="off" aria-invalid="false" /></span></p>
+<p><input type="submit" value="Ask Now &gt;" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</aside>			</div><!-- .sidebar-inner -->
+		</div><!-- #shop-sidebar -->
+
+		<div class="col large-9">
+		<div class="shop-container"><div data-zm-merchant="60110e71-3461-45df-9ccd-ba1148934a36" data-env="production"></div> 
+		<div class="term-description"><p>Are you a beginner looking to buy your first astronomical scope? Look no further than Bintel, where we endeavor to provide high quality service and after-sales support second-to-none! We stock a wide range of great telescopes, and have been supplying amateur astronomers in Australia for over 30 years. Whether you&#8217;re from Brisbane, Melbourne, or Kunnanurra, our Sydney telescope store can sort out all your astronomy needs. Should you be looking for the best beginner telescope available in Australia, the best telescope for kids, or even the best telescope for the price when you&#8217;re on a budget, we&#8217;re able to help you out. With top brands like Celestron, Skywatcher and Orion all on display, our expert staff can talk you through what&#8217;s best for you, your family, or your children!</p>
+</div>
+		
+
+	<div class="woof_products_top_panel"></div>
+		<div class="products row row-small large-columns-3 medium-columns-3 small-columns-2">
+	
+<li class="product-small out-of-stock  grid-">
+
+<div class="badge-container absolute left top z-1">
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-astromaster-70az/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="226" src="https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1-300x275.jpeg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="AstroMaster 70AZ" srcset="https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1-300x275.jpeg 300w, https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1-340x311.jpeg 340w, https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1.jpeg 800w, https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1-130x119.jpeg 130w, https://www.bintel.com.au/wp-content/uploads/2016/10/21061__AstroMaster_70AZ_1-1-600x549.jpeg 600w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="11930">Quick View</div>
+	   	 
+	   	<div class="out-of-stock-label">Out of stock</div>		
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-astromaster-70az/"><p class="name">Celestron AstroMaster 70AZ Refractor Telescope</p></a>
+          
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>219.00</span></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>54.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-11930">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=11930" rel="nofollow" data-product-id="11930" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-11930 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '11930',
+						'name': 'Celestron AstroMaster 70AZ Refractor Telescope',
+						'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+<div class="freeshipping"></div>
+<a href="https://www.bintel.com.au/product/celestron-cosmos-90gt-wifi/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="247" src="https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-247x247.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-247x247.png 247w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-340x340.png 340w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-800x800.png 800w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-32x32.png 32w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-510x510.png 510w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1-100x100.png 100w, https://www.bintel.com.au/wp-content/uploads/2017/05/AF5-1.png 860w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+				<div class="back-image back"><img width="247" height="247" src="https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-247x247.png" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-247x247.png 247w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-340x340.png 340w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-800x800.png 800w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-1600x1600.png 1600w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-114x114.png 114w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-510x510.png 510w, https://www.bintel.com.au/wp-content/uploads/2017/05/cosmos-1-32x32.png 32w" sizes="(max-width: 247px) 100vw, 247px" /></div>				
+		           <div class="quick-view" data-prod="16652">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/beginner/" rel="tag">Beginner Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-cosmos-90gt-wifi/"><p class="name">Celestron Cosmos 90GT WiFi</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>649.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>499.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>124.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-16652">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=16652" rel="nofollow" data-product-id="16652" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-16652 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '16652',
+						'name': 'Celestron Cosmos 90GT WiFi',
+						'category': 'Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Refractor Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-astromaster-130eq/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="319" src="https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD-263x340.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Astromaster 130EQ MD" srcset="https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD-263x340.jpg 263w, https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD-101x130.jpg 101w, https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD-232x300.jpg 232w, https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD-464x600.jpg 464w, https://www.bintel.com.au/wp-content/uploads/2016/10/Astromaster-130EQ-MD.jpg 500w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="11824">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-astromaster-130eq/"><p class="name">Celestron AstroMaster 130EQ Telescope</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>399.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>349.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>87.25</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-11824">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=11824" rel="nofollow" data-product-id="11824" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-11824 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '11824',
+						'name': 'Celestron AstroMaster 130EQ Telescope',
+						'category': 'Gift Ideas/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Reflector Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-astromaster-lt-70az-telescope/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="282" src="https://www.bintel.com.au/wp-content/uploads/2016/08/21074_1-263x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron AstroMaster LT 70AZ" srcset="https://www.bintel.com.au/wp-content/uploads/2016/08/21074_1-263x300.jpg 263w, https://www.bintel.com.au/wp-content/uploads/2016/08/21074_1-298x340.jpg 298w, https://www.bintel.com.au/wp-content/uploads/2016/08/21074_1-114x130.jpg 114w, https://www.bintel.com.au/wp-content/uploads/2016/08/21074_1.jpg 503w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="9957">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-astromaster-lt-70az-telescope/"><p class="name">Celestron AstroMaster LT 70AZ Refractor Telescope</p></a>
+          
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>179.00</span></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>44.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-9957">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=9957" rel="nofollow" data-product-id="9957" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-9957 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '9957',
+						'name': 'Celestron AstroMaster LT 70AZ Refractor Telescope',
+						'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+</div>
+<div class="inner-wrap">
+
+<div class="freeshipping"></div>
+<a href="https://www.bintel.com.au/product/celestron-firstscope/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="371" src="https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-400x600.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron FirstScope Telescope" srcset="https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-400x600.jpg 400w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-227x340.jpg 227w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-533x800.jpg 533w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-1067x1600.jpg 1067w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-87x130.jpg 87w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6-200x300.jpg 200w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_6.jpg 1200w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+				<div class="back-image back"><img width="247" height="371" src="https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-400x600.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-400x600.jpg 400w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-227x340.jpg 227w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-533x800.jpg 533w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-1067x1600.jpg 1067w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-87x130.jpg 87w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3-200x300.jpg 200w, https://www.bintel.com.au/wp-content/uploads/2017/06/21024_FIRSTSCOPE_Telescope_3.jpg 1200w" sizes="(max-width: 247px) 100vw, 247px" /></div>				
+		           <div class="quick-view" data-prod="17075">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-firstscope/"><p class="name">Celestron FirstScope</p></a>
+          
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>99.00</span></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>24.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-17075">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=17075" rel="nofollow" data-product-id="17075" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-17075 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '17075',
+						'name': 'Celestron FirstScope',
+						'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Reflector Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-astro-fi-130-reflector/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="224" src="https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1-247x224.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron Astro Fi 130 Reflector" srcset="https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1-247x224.png 247w, https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1-340x309.png 340w, https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1-800x726.png 800w, https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1-510x463.png 510w, https://www.bintel.com.au/wp-content/uploads/2017/02/AF130-1.png 1150w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="12059">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-astro-fi-130-reflector/"><p class="name">Celestron Astro Fi 130mm WiFi Reflector Telescope</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>899.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>699.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>174.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-12059">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=12059" rel="nofollow" data-product-id="12059" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-12059 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '12059',
+						'name': 'Celestron Astro Fi 130mm WiFi Reflector Telescope',
+						'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Reflector Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+<div class="badge callout badge-square"><div class="badge-inner callout-new-bg is-small new-bubble">+BONUS</div></div></div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-nexstar-4se-telescope/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="361" src="https://www.bintel.com.au/wp-content/uploads/2016/05/11049_1-23.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron NexStar 4SE Telescope" srcset="https://www.bintel.com.au/wp-content/uploads/2016/05/11049_1-23.jpg 354w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_1-23-232x340.jpg 232w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_1-23-89x130.jpg 89w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_1-23-205x300.jpg 205w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+				<div class="back-image back"><img width="247" height="286" src="https://www.bintel.com.au/wp-content/uploads/2016/05/11049_2-23-259x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2016/05/11049_2-23-259x300.jpg 259w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_2-23-294x340.jpg 294w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_2-23-112x130.jpg 112w, https://www.bintel.com.au/wp-content/uploads/2016/05/11049_2-23.jpg 451w" sizes="(max-width: 247px) 100vw, 247px" /></div>				
+		           <div class="quick-view" data-prod="1482">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/gift/" rel="tag">Gift Ideas</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-nexstar-4se-telescope/"><p class="name">Celestron NexStar 4SE Telescope</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>999.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>949.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>237.25</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1482">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=1482" rel="nofollow" data-product-id="1482" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-1482 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '1482',
+						'name': 'Celestron NexStar 4SE Telescope',
+						'category': 'Gift Ideas/Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/skywatcher-dobsonian-6-inch/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="329" src="https://www.bintel.com.au/wp-content/uploads/2016/08/150P-Dobsonian-255x340.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="SkyWatcher Dobsonian 6 Inch Telescope" srcset="https://www.bintel.com.au/wp-content/uploads/2016/08/150P-Dobsonian-255x340.jpg 255w, https://www.bintel.com.au/wp-content/uploads/2016/08/150P-Dobsonian-98x130.jpg 98w, https://www.bintel.com.au/wp-content/uploads/2016/08/150P-Dobsonian-225x300.jpg 225w, https://www.bintel.com.au/wp-content/uploads/2016/08/150P-Dobsonian.jpg 450w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="10351">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/beginner/" rel="tag">Beginner Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/skywatcher-dobsonian-6-inch/"><p class="name">Skywatcher Dobsonian 6 Inch Telescope</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>449.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>399.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>99.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-10351">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=10351" rel="nofollow" data-product-id="10351" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-10351 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '10351',
+						'name': 'Skywatcher Dobsonian 6 Inch Telescope',
+						'category': 'Beginner Telescopes/Skywatcher Telescopes/Dobsonian Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+<div class="badge callout badge-square"><div class="badge-inner callout-new-bg is-small new-bubble">+BONUS</div></div></div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-nexstar-5se-telescope/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="389" src="https://www.bintel.com.au/wp-content/uploads/2016/05/11036_1-11-e1465731201919.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron Nexstar 5SE Telescope" srcset="https://www.bintel.com.au/wp-content/uploads/2016/05/11036_1-11-e1465731201919.jpg 335w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_1-11-e1465731201919-216x340.jpg 216w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_1-11-e1465731201919-82x130.jpg 82w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_1-11-e1465731201919-190x300.jpg 190w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+				<div class="back-image back"><img width="247" height="292" src="https://www.bintel.com.au/wp-content/uploads/2016/05/11036_2-11-254x300.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2016/05/11036_2-11-254x300.jpg 254w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_2-11-287x340.jpg 287w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_2-11-110x130.jpg 110w, https://www.bintel.com.au/wp-content/uploads/2016/05/11036_2-11.jpg 448w" sizes="(max-width: 247px) 100vw, 247px" /></div>				
+		           <div class="quick-view" data-prod="365">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/" rel="tag">Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-nexstar-5se-telescope/"><p class="name">Celestron NexStar 5SE Telescope</p></a>
+          
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>1,399.00</span></span>
+      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-365">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=365" rel="nofollow" data-product-id="365" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-365 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '365',
+						'name': 'Celestron NexStar 5SE Telescope',
+						'category': 'Telescopes/Beginner Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-inspire-70mm-az-refractor/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="247" src="https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-247x247.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Celestron Inspire" srcset="https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-247x247.jpg 247w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-340x340.jpg 340w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-800x800.jpg 800w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-114x114.jpg 114w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-510x510.jpg 510w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x-32x32.jpg 32w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_1_Smartphone-Callout_570x380@2x.jpg 1008w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+				<div class="back-image back"><img width="247" height="247" src="https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-247x247.jpg" class="attachment-shop_catalog size-shop_catalog" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-247x247.jpg 247w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-340x340.jpg 340w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-114x114.jpg 114w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-510x510.jpg 510w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x-32x32.jpg 32w, https://www.bintel.com.au/wp-content/uploads/2017/10/22401_Inspire_70AZ_4_570x380@2x.jpg 604w" sizes="(max-width: 247px) 100vw, 247px" /></div>				
+		           <div class="quick-view" data-prod="20082">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/" rel="tag">Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-inspire-70mm-az-refractor/"><p class="name">Celestron Inspire 70mm AZ Refractor</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>299.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>279.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>69.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-20082">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=20082" rel="nofollow" data-product-id="20082" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-20082 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '20082',
+						'name': 'Celestron Inspire 70mm AZ Refractor',
+						'category': 'Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/skywatcher-sw102-az3/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="278" src="https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-267x300.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-267x300.jpg 267w, https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-302x340.jpg 302w, https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-711x800.jpg 711w, https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-116x130.jpg 116w, https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8-533x600.jpg 533w, https://www.bintel.com.au/wp-content/uploads/2016/05/SW1025AZ3_1-8.jpg 850w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="520">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/beginner/" rel="tag">Beginner Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/skywatcher-sw102-az3/"><p class="name">SkyWatcher SW102 AZ3 Telescope</p></a>
+          
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>499.00</span></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>124.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-520">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=520" rel="nofollow" data-product-id="520" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-520 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '520',
+						'name': 'SkyWatcher SW102 AZ3 Telescope',
+						'category': 'Beginner Telescopes/Kids Telescopes/Skywatcher Telescopes/Refractor Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+
+<li class="product-small   grid-">
+
+<div class="badge-container absolute left top z-1">
+		<div class="callout badge badge-square"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+<div class="inner-wrap">
+
+
+<a href="https://www.bintel.com.au/product/celestron-astro-fi-127-sct/">
+      <div class="product-image hover_">
+      	         <div class="front-image"><img width="247" height="246" src="https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-247x246.png" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-247x246.png 247w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-340x340.png 340w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-800x797.png 800w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-32x32.png 32w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-510x508.png 510w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1-100x100.png 100w, https://www.bintel.com.au/wp-content/uploads/2017/03/AF5-1.png 1030w" sizes="(max-width: 247px) 100vw, 247px" /></div>
+								
+		           <div class="quick-view" data-prod="12045">Quick View</div>
+	   	 
+	   			
+		      </div><!-- end product-image -->
+</a>      	
+
+    <div class="info style-">
+
+	
+      <div class="text-center">
+      	              <p class="category">
+          		<a href="https://www.bintel.com.au/product-category/telescopes/" rel="tag">Telescopes</a>          </p>
+          <div class="tx-div small"></div>
+          <a href="https://www.bintel.com.au/product/celestron-astro-fi-127-sct/"><p class="name">Celestron Astro Fi 5 WiFi Schmidt-Cassegrain Telescope</p></a>
+          
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>999.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>799.00</span></ins></span>
+<p class="afterpay-payment-info">or 4 payments of <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>199.75</span> with Afterpay</p>      </div><!-- text-center -->
+
+     		
+	
+
+
+
+	
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-12045">
+		    <div class="yith-wcwl-add-button show" style="display:block">
+
+	        
+<a href="/product-category/telescopes/beginner/?add_to_wishlist=12045" rel="nofollow" data-product-id="12045" data-product-type="simple" class="add_to_wishlist" >
+        Add to Wishlist</a>
+<img src="https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" />
+	    </div>
+
+	    <div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
+	        <span class="feedback">Product added!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
+	        <span class="feedback">The product is already in the wishlist!</span>
+	        <a href="https://www.bintel.com.au/wishlist/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	    </div>
+
+	    <div style="clear:both"></div>
+	    <div class="yith-wcwl-wishlistaddresponse"></div>
+	
+</div>
+
+<div class="clear"></div>	</div><!-- end info -->	
+
+</div> <!-- .inner-wrap -->
+
+			<script>
+			(function($) {
+				$( '.products .post-12045 a' ).click( function() {
+					if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+						return;
+					}
+
+					ga( 'ec:addProduct', {
+						'id': '12045',
+						'name': 'Celestron Astro Fi 5 WiFi Schmidt-Cassegrain Telescope',
+						'category': 'Telescopes/Beginner Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+						'position': '0'
+					});
+
+					ga( 'ec:setAction', 'click', { list: 'Product List' });
+					ga( 'send', 'event', 'UX', 'click', ' Product List' );
+				});
+			})(jQuery);
+			</script>
+		
+
+
+</li><!-- li.product-small -->
+
+</div><!-- row --><div class="container">
+<nav class="woocommerce-pagination">
+	<ul class="page-numbers nav-pagination links text-center"><li><span aria-current='page' class='page-number current'>1</span></li><li><a class='page-number' href='https://www.bintel.com.au/product-category/telescopes/beginner/page/2/'>2</a></li><li><a class="next page-number" href="https://www.bintel.com.au/product-category/telescopes/beginner/page/2/"><i class="icon-angle-right"></i></a></li></ul></nav>
+</div>
+<form method="post" action="" style='float: right; margin-left: 5px;' class="form-wppp-select products-per-page"><select name="ppp" onchange="this.form.submit()" class="select wppp-select"><option value="12"  selected='selected'>12 products per page</option><option value="24" >24 products per page</option><option value="48" >48 products per page</option><option value="-1" >All products per page</option></select></form>
+		</div><!-- shop container -->
+				</div>
+</div>
+
+</div><!-- #main-content -->
+<div id="map" >
+<a style="background: url('/wp-content/themes/bintel/images/Sbintelmap.jpg'); background-position: center; width: 100%; height: 301px; display: block;" href="https://www.google.com.au/maps/place/The+Binocular+%26+Telescope+Shop/@-33.8758779,151.1878594,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12ae2da64a361d:0x1f018912b397b6c4!8m2!3d-33.8758779!4d151.1900534?hl=en"></a>
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.5348028202534!2d151.18785935174202!3d-33.87587788055951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae2da64a361d%3A0x1f018912b397b6c4!2sThe+Binocular+%26+Telescope+Shop!5e0!3m2!1sen!2sau!4v1464196852671" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+</div>
+
+<div class="footer">
+<div  class="row container  ">
+<div class="small-12    large-3  columns   "  ><div class="column-inner"  >
+
+				<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer-nav"><li id="menu-item-9352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9352"><a href="/">Bintel</a></li>
+<li id="menu-item-6962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6962"><a href="https://www.bintel.com.au/my-account/">Your Account</a></li>
+<li id="menu-item-6958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6958"><a href="https://www.bintel.com.au/join-the-bintel-society/">Join the Bintel Society (FREE)</a></li>
+<li id="menu-item-9438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9438"><a href="https://www.bintel.com.au/new-in-store/">New Products In Store</a></li>
+<li id="menu-item-9452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9452"><a href="https://www.bintel.com.au/on-sale/">On Sale</a></li>
+<li id="menu-item-11638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11638"><a href="https://www.bintel.com.au/links-resources/">Links &#038; Resources</a></li>
+<li id="menu-item-21078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21078"><a href="https://www.bintel.com.au/category/tutorials-guides/">Tutorials &#038; Guides</a></li>
+<li id="menu-item-6959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6959"><a href="https://www.bintel.com.au/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6960"><a href="https://www.bintel.com.au/terms-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-6961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6961"><a href="https://www.bintel.com.au/contact-us/">Contact Us</a></li>
+<li id="menu-item-20265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20265"><a href="https://www.bintel.com.au/zippay/">Pay Later with zipMoney</a></li>
+</ul></div>						
+			</div></div>
+<div class="small-12    large-3  columns   "  ><div class="column-inner"  >
+<ul class="wooc_sclist"><li class="primary"><strong><a href="">Accessories</a></strong></li><li><a href="https://www.bintel.com.au/product-category/accessories/adapters/">Adapters &amp; Extensions</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/books-software/">Books &amp; Software</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/cases-covers/">Cases &amp; Covers</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/cleaning/">Cleaning &amp; Maintenance</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/collimation/">Collimation</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/dew-control/">Dew Control</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/diagonals/">Diagonals</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/dovetail-bars/">Dovetail Bars &amp; Plates</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/filters/">Filters</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/finderscopes/">Finderscopes</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/magnifiers/">Magnifiers</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/mirrors-focusers/">Mirrors &amp; Focusers</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/power/">Power, Torches &amp; Cables</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/solarfilters/">Solar Filters</a></li><li><a href="https://www.bintel.com.au/product-category/accessories/rings/">Tube &amp; Guide Rings</a></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Books &amp; Software</a></strong></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Binoculars</a></strong></li><li><a href="https://www.bintel.com.au/product-category/binoculars/all-rounder-favourites/">All-Rounder Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/birdwatching-favourites/">Birdwatching Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/astronomy-favourites/">Astronomy Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/swarovski/">Swarovski Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/nikon/">Nikon Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/bushnell/">Bushnell Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/celestron-binoculars/">Celestron Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/orion-binoculars/">Orion Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/pentax/">Pentax Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/steiner/">Steiner Binoculars</a></li><li><a href="https://www.bintel.com.au/product-category/binoculars/binocular-accessories/">Binocular Accessories</a></li></ul>
+
+</div></div>
+<div class="small-12  large-3  columns   "  ><div class="column-inner"  >
+<ul class="wooc_sclist"><li class="primary"><strong><a href="">Eyepieces and Barlows</a></strong></li><li><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/standard-eyepieces/">Standard Eyepieces</a></li><li><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/">Tele Vue Eyepieces</a></li><li><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/barlows-power-mates/">Barlows &amp; Powermates</a></li><li><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/specialtyeyepieces/">Specialty Eyepieces</a></li><li><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/eyepiecekit/">Eyepiece Kits</a></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Filters</a></strong></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Imaging</a></strong></li><li><a href="https://www.bintel.com.au/product-category/imaging/planetary-imaging/">Planetary Imaging</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/deep-sky-imaging/">Deep Sky Imaging</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/camera-adapters/">Camera Adapters</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/reducers-correctors-flatteners/">Reducers, Correctors &amp; Flatteners</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/imaging-accessories/">Imaging Accessories</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/filter-wheels/">Filter Wheels &amp; Imaging Filters</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/autoguiding/">Autoguiding</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/atik-cameras/">Atik Cameras</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/zwo-cameras/">ZWO Cameras</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/sbig-cameras/">SBIG Cameras</a></li><li><a href="https://www.bintel.com.au/product-category/imaging/fli-cameras/">FLI Cameras</a></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Spotting Scopes</a></strong></li><li><a href="https://www.bintel.com.au/product-category/spotting-scope/angled-spotting-scopes/">Angled Spotting Scopes</a></li><li><a href="https://www.bintel.com.au/product-category/spotting-scope/straight-spotting-scopes/">Straight Spotting Scopes</a></li><li><a href="https://www.bintel.com.au/product-category/spotting-scope/swarovski-spotting-scopes/">Swarovski Spotting Scopes</a></li><li><a href="https://www.bintel.com.au/product-category/spotting-scope/spotting-scope-accessories/">Spotting Scope Accessories</a></li><li><a href="https://www.bintel.com.au/product-category/spotting-scope/digiscoping/">Digiscoping</a></li></ul>
+</div></div>
+<div class="small-12    large-3  columns   "  ><div class="column-inner"  >
+<ul class="wooc_sclist"><li class="primary"><strong><a href="">Telescopes</a></strong></li><li><a href="https://www.bintel.com.au/product-category/telescopes/beginner/">Beginner Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/kids/">Kids Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/computerised/">Computerised Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/celestron-telescopes/">Celestron Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/skywatcher/">Skywatcher Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/dobsonian/">Dobsonian Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/refractor/">Refractor Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/cassegrain/">Cassegrain Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/reflectors/">Reflector Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/celestron-edgehd/">Celestron EdgeHD</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/premiumrefractors/">Premium Refractor Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/astrographs/">Astrograph Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/solar-telescopes/">Solar Telescopes</a></li><li><a href="https://www.bintel.com.au/product-category/telescopes/televue-telescopes/">TeleVue Telescopes</a></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Mirrors &amp; Focusers</a></strong></li></ul><ul class="wooc_sclist"><li class="primary"><strong><a href="">Mounts &amp; Tripods</a></strong></li><li><a href="https://www.bintel.com.au/product-category/mounts-tripods/tripods/">Tripods</a></li><li><a href="https://www.bintel.com.au/product-category/mounts-tripods/az-mounts/">Alt Azimuth Mounts</a></li><li><a href="https://www.bintel.com.au/product-category/mounts-tripods/eq-mounts/">Equatorial Mounts</a></li><li><a href="https://www.bintel.com.au/product-category/mounts-tripods/counterweights/">Counterweights</a></li><li><a href="https://www.bintel.com.au/product-category/mounts-tripods/mount-accessories/">Mount Accessories</a></li></ul></div></div>
+</div>
+</div>
+
+<footer class="footer-wrapper" role="contentinfo">	
+
+<!-- FOOTER 1 -->
+
+
+<!-- FOOTER 2 -->
+
+
+<div class="absolute-footer " style="background-color:">
+<div class="row">
+	<div class="large-12 columns">
+	<!-- 	<div class="left">
+			 				<div class="menu-footer-menu-container"><ul id="menu-footer-menu-1" class="footer-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9352"><a href="/">Bintel</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6962"><a href="https://www.bintel.com.au/my-account/">Your Account</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6958"><a href="https://www.bintel.com.au/join-the-bintel-society/">Join the Bintel Society (FREE)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9438"><a href="https://www.bintel.com.au/new-in-store/">New Products In Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9452"><a href="https://www.bintel.com.au/on-sale/">On Sale</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11638"><a href="https://www.bintel.com.au/links-resources/">Links &#038; Resources</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21078"><a href="https://www.bintel.com.au/category/tutorials-guides/">Tutorials &#038; Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6959"><a href="https://www.bintel.com.au/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6960"><a href="https://www.bintel.com.au/terms-conditions/">Terms &#038; Conditions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6961"><a href="https://www.bintel.com.au/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20265"><a href="https://www.bintel.com.au/zippay/">Pay Later with zipMoney</a></li>
+</ul></div>						
+					-->	
+		<!--<div class="copyright-footer">Define left footer text / navigation in Theme Option Panel</div>
+		</div> .left -->
+		<!-- 
+		<div class="right">
+				Define right footer text in Theme Option Panel		</div> -->
+		
+		<div class="copyright-footer">&copy; 2018 The Binocular &amp; Telescope Shop PTY LTD | ABN 39094891031 | 84 Wentworth Park Road, Glebe, Sydney 2037 | Phone (02) 9518 7255 <br>
+			WEBSITE DEVELOPMENT AND HOSTING BY<br><img src="https://www.dnadigital.com.au/wp-content/themes/brisbane/images/dnadigitallogosmall.png"></div>
+
+	</div><!-- .large-12 -->
+</div><!-- .row-->
+</div><!-- .absolute-footer -->
+</footer><!-- .footer-wrapper -->
+</div><!-- #wrapper -->
+<a href="tel:0295187255" class="mobilephone"></a>
+<!-- back to top -->
+<a href="#top" id="top-link" class="animated fadeInUp"><span class="icon-angle-up"></span></a>
+
+
+<!-- Mobile Sidebar -->
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+    <div class="sidebar-menu no-scrollbar ">
+        <ul class="nav nav-sidebar  nav-vertical nav-uppercase">
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form- is-normal"><form role="search" method="get" class="searchform" action="https://www.bintel.com.au/">
+		<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+			  <input type="search" class="search-field mb-0" name="s" value="" placeholder="Search&hellip;" />
+		    <input type="hidden" name="post_type" value="product" />
+        			</div><!-- .flex-col -->
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0">
+					<i class="icon-search" ></i>				</button>
+			</div><!-- .flex-col -->
+		</div><!-- .flex-row -->
+	 <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-29"><a href="/product-category/telescopes/" class="nav-top-link">Telescopes</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-8780"><a href="/product-category/telescopes/beginner">Beginner Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12439"><a href="/product-category/telescopes/kids/">Kids Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8771"><a href="/product-category/telescopes/computerised/">Computerised Telescopes</a></li>
+	<li class="label-popular menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/product-category/telescopes/celestron-telescopes/">Celestron Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12444"><a href="/product-category/telescopes/skywatcher/">Skywatcher Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8767"><a href="/product-category/telescopes/dobsonian/">Dobsonian Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8889"><a href="/product-category/telescopes/reflectors">Reflector Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8769"><a href="/product-category/telescopes/cassegrain/">Cassegrain Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8768"><a href="/product-category/telescopes/refractor/">Refractor Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8770"><a href="/product-category/telescopes/premiumrefractors/">Premium Refractor  Telescopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10123"><a href="/product-category/telescopes/solar-telescopes/">Solar Telescopes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a href="/product-category/binoculars/" class="nav-top-link">Binoculars</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8779"><a href="/product-category/binoculars/all-rounder-favourites">All-Rounder Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8777"><a href="/product-category/binoculars/astronomy-favourites">Astronomy Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8772"><a href="/product-category/binoculars/birdwatching-favourites">Birdwatching Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8773"><a href="/product-category/binoculars/swarovski">Swarovski Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8775"><a href="/product-category/binoculars/nikon">Nikon Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9495"><a href="/product-category/binoculars/celestron-binoculars/">Celestron Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8808"><a href="/product-category/binoculars/bushnell">Bushnell Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12384"><a href="/product-category/binoculars/orion-binoculars">Orion Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8776"><a href="/product-category/binoculars/pentax">Pentax Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8810"><a href="/product-category/binoculars/steiner">Steiner Binoculars</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8838"><a href="/product-category/binoculars/binocular-accessories">Binocular Accessories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8781"><a href="/product-category/spotting-scope/" class="nav-top-link">Spotting Scopes</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8804"><a href="/product-category/spotting-scope/angled-spotting-scopes/">Angled Spotting Scopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12720"><a href="/product-category/spotting-scope/straight-spotting-scopes/">Straight Spotting Scopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12568"><a href="/product-category/spotting-scopes/swarovski-spotting-scopes/">Swarovski Spotting Scopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8806"><a href="/product-category/spotting-scopes/spotting-scope-accessories">Spotting Scope Accessories</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8805"><a href="/product-category/spotting-scopes/digiscoping">Digiscoping</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8807"><a href="/product-category/mounts-and-tripods/tripods">Tripods</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8799"><a href="/product-category/mounts-tripods" class="nav-top-link">Mounts &#038; Tripods</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8801"><a href="/product-category/mounts-and-tripods/eq-mounts">EQ Mounts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8802"><a href="/product-category/mounts-and-tripods/az-mounts">AZ Mounts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8803"><a href="/product-category/mounts-and-tripods/counterweights">Counterweights</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8800"><a href="/product-category/mounts-and-tripods/tripods">Tripods</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8895"><a href="/product-category/mounts-and-tripods/mount-accessories">Mount Accessories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8784"><a href="/product-category/imaging/" class="nav-top-link">Imaging</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9485"><a href="/product-category/imaging/deep-sky-imaging">Deep Sky Imaging</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9486"><a href="/product-category/imaging/planetary-imaging">Planetary Imaging</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8786"><a href="/product-category/imaging/atik-cameras">Atik Cameras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8785"><a href="/product-category/imaging/zwo-cameras">ZWO Cameras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12157"><a href="/product-category/imaging/sbig-cameras">SBIG Cameras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8787"><a href="/product-category/imaging/fli-cameras">FLI Cameras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8790"><a href="/product-category/imaging/autoguiding">Autoguiding</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10638"><a href="/product-category/imaging/camera-adapters">Camera Adapters</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18530"><a href="/product-category/other/filter-wheels/">Filter Wheels</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8791"><a href="/product-category/imaging/imaging-accessories">Imaging Accessories</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11383"><a href="/product-category/imaging/reducers-correctors-flatteners">Reducers, Correctors &#038; Flatteners</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13759"><a href="/product-category/eyepieces-and-barlows/" class="nav-top-link">Eyepieces &#038; Barlows</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13763"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/standard-eyepieces/">Standard Eyepieces</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13762"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/specialtyeyepieces/">Specialty Eyepieces</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13764"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/televue/">Televue Eyepieces</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13761"><a href="https://www.bintel.com.au/product-category/eyepieces-and-barlows/eyepiecekit/">Eyepiece Kits</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13760"><a href="/product-category/eyepieces-and-barlows/barlows-power-mates/">Barlows &#038; Powermates</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31"><a href="/product-category/accessories/" class="nav-top-link">Accessories</a>
+<ul class=children>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8793"><a href="/product-category/other/adapters">Adapters &#038; Extensions</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8794"><a href="/product-category/other/books-software">Books &#038; Software</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8795"><a href="/product-category/other/collimation">Collimation</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8925"><a href="/product-category/other/cases-covers">Cases &#038; Covers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17521"><a href="/product-category/other/cleaning">Cleaning &#038; Maintenance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8796"><a href="/product-category/other/dew-control">Dew Control</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12393"><a href="/product-category/other/dovetail-bars">Dovetail Bars &#038; Plates</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10497"><a href="/product-category/other/diagonals">Diagonals</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9515"><a href="/product-category/other/filters/">Filters</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8798"><a href="/product-category/other/finderscopes">Finderscopes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8792"><a href="/product-category/other/magnifiers">Magnifiers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8933"><a href="/product-category/other/mirrors-focusers">Mirrors &#038; Focusers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11304"><a href="/product-category/other/power">Power, Torches &#038; Cables</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10122"><a href="/product-category/adapters-accessories/solarfilters/">Solar Filters</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12395"><a href="/product-category/other/rings">Tube &#038; Guide Rings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20266"><a href="https://www.bintel.com.au/zippay/" class="nav-top-link">Pay Later</a></li>
+<li class="header-divider"></li><li class="sale menu-item menu-item-type-post_type menu-item-object-page menu-item-9457"><a href="https://www.bintel.com.au/on-sale/" class="nav-top-link">Sale</a></li>
+<li class="wishlist menu-item menu-item-type-post_type menu-item-object-page menu-item-9339"><a href="https://www.bintel.com.au/wishlist/" class="nav-top-link">Wishlist</a></li>
+<li class="giftideas menu-item menu-item-type-custom menu-item-object-custom menu-item-9432"><a href="/new-in-store/" class="nav-top-link">New in Store</a></li>
+<li class="insta menu-item menu-item-type-custom menu-item-object-custom menu-item-18334"><a href="https://www.instagram.com/bintel_astronomy/" class="nav-top-link"> </a></li>
+<li class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-18335"><a href="https://www.facebook.com/bintelshop/" class="nav-top-link"> </a></li>
+<li class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-9340"><a href="https://www.bintel.com.au/contact-us/" class="nav-top-link">Contact</a></li>
+<li class="phone menu-item menu-item-type-custom menu-item-object-custom menu-item-9341"><a href="#" class="nav-top-link"><span class="number">02 9518 7255</span></a></li>
+<li class="account-item has-icon menu-item">
+<a href="https://www.bintel.com.au/my-account/"
+    class="nav-top-link nav-top-not-logged-in">
+    <span class="header-account-title">
+    Login  </span>
+</a><!-- .account-login-link -->
+
+</li>
+        </ul>
+    </div><!-- inner -->
+</div><!-- #mobile-menu -->
+
+
+        <!-- START Google Code for Dynamic Retargeting -->
+            <script type="text/javascript">
+                var google_tag_params = {
+                    ecomm_pagetype: 'category',
+                    ecomm_category: ["Telescopes","Beginner Telescopes","Computerised Telescopes","Celestron Telescopes","Cassegrain Telescopes"]                };
+            </script>
+			
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 1065020204;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt=""
+                     src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065020204/?value=0&guid=ON&script=0"/>
+            </div>
+        </noscript>
+        <!-- END Google Code for Dynamic Retargeting -->
+
+		
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=355022414869723&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"name":"Home","@id":"https:\/\/www.bintel.com.au"}},{"@type":"ListItem","position":"2","item":{"name":"Telescopes","@id":"https:\/\/www.bintel.com.au\/product-category\/telescopes\/"}},{"@type":"ListItem","position":"3","item":{"name":"Beginner Telescopes"}}]},{"@context":"https:\/\/schema.org\/","@graph":[{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-70az\/","name":"Celestron AstroMaster 70AZ Refractor Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-70az\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-cosmos-90gt-wifi\/","name":"Celestron Cosmos 90GT WiFi","url":"https:\/\/www.bintel.com.au\/product\/celestron-cosmos-90gt-wifi\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-130eq\/","name":"Celestron AstroMaster 130EQ Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-130eq\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-lt-70az-telescope\/","name":"Celestron AstroMaster LT 70AZ Refractor Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-astromaster-lt-70az-telescope\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-firstscope\/","name":"Celestron FirstScope","url":"https:\/\/www.bintel.com.au\/product\/celestron-firstscope\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-astro-fi-130-reflector\/","name":"Celestron Astro Fi 130mm WiFi Reflector Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-astro-fi-130-reflector\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-nexstar-4se-telescope\/","name":"Celestron NexStar 4SE Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-nexstar-4se-telescope\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/skywatcher-dobsonian-6-inch\/","name":"Skywatcher Dobsonian 6 Inch Telescope","url":"https:\/\/www.bintel.com.au\/product\/skywatcher-dobsonian-6-inch\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-nexstar-5se-telescope\/","name":"Celestron NexStar 5SE Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-nexstar-5se-telescope\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-inspire-70mm-az-refractor\/","name":"Celestron Inspire 70mm AZ Refractor","url":"https:\/\/www.bintel.com.au\/product\/celestron-inspire-70mm-az-refractor\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/skywatcher-sw102-az3\/","name":"SkyWatcher SW102 AZ3 Telescope","url":"https:\/\/www.bintel.com.au\/product\/skywatcher-sw102-az3\/"},{"@type":"Product","@id":"https:\/\/www.bintel.com.au\/product\/celestron-astro-fi-127-sct\/","name":"Celestron Astro Fi 5 WiFi Schmidt-Cassegrain Telescope","url":"https:\/\/www.bintel.com.au\/product\/celestron-astro-fi-127-sct\/"}]}]}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_url = "https:\/\/www.bintel.com.au\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/recently-viewed-and-most-viewed-products/assets/js/ced_init.js?ver=1.0.11'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=1.0.11'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/recently-viewed-and-most-viewed-products/assets/js/ced_select2.js?ver=1.0.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.bintel.com.au\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tCountAjax = {"ajaxurl":"https:\/\/www.bintel.com.au\/wp-admin\/admin-ajax.php","countdownNonce":"5d5d30ab13"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=2.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.bintel.com.au\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_25ca6de04f10548f3fe5f97c300b7b8d","fragment_name":"wc_fragments_25ca6de04f10548f3fe5f97c300b7b8d"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-ajax-search-premium/assets/js/yith-autocomplete.min.js?ver=1.2.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.bintel.com.au\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/zipmoney-payments-woocommerce/assets/js/woocommerce-zipmoney-payment-front.js?ver=2.0.1'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/zipmoney-payments-woocommerce/assets/js/zip_order_button.js?ver=2.0.1'></script>
+<script type='text/javascript' src='https://d3k1w8lx8mqizo.cloudfront.net/lib/js/zm-widget-js/dist/zipmoney-widgets-v1.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"https:\/\/www.bintel.com.au\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/www.bintel.com.au\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.5.3'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=3.4'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.5.3'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.5.3'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.bintel.com.au/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=4.9.5'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+			ga( 'ec:addImpression', {
+				'id': '11930',
+				'name': 'Celestron AstroMaster 70AZ Refractor Telescope',
+				'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '16652',
+				'name': 'Celestron Cosmos 90GT WiFi',
+				'category': 'Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Refractor Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '11824',
+				'name': 'Celestron AstroMaster 130EQ Telescope',
+				'category': 'Gift Ideas/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Reflector Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '9957',
+				'name': 'Celestron AstroMaster LT 70AZ Refractor Telescope',
+				'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '17075',
+				'name': 'Celestron FirstScope',
+				'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Reflector Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '12059',
+				'name': 'Celestron Astro Fi 130mm WiFi Reflector Telescope',
+				'category': 'Gift Ideas/Telescopes/Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Reflector Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '1482',
+				'name': 'Celestron NexStar 4SE Telescope',
+				'category': 'Gift Ideas/Beginner Telescopes/Kids Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '10351',
+				'name': 'Skywatcher Dobsonian 6 Inch Telescope',
+				'category': 'Beginner Telescopes/Skywatcher Telescopes/Dobsonian Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '365',
+				'name': 'Celestron NexStar 5SE Telescope',
+				'category': 'Telescopes/Beginner Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '20082',
+				'name': 'Celestron Inspire 70mm AZ Refractor',
+				'category': 'Telescopes/Beginner Telescopes/Kids Telescopes/Celestron Telescopes/Refractor Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '520',
+				'name': 'SkyWatcher SW102 AZ3 Telescope',
+				'category': 'Beginner Telescopes/Kids Telescopes/Skywatcher Telescopes/Refractor Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '12045',
+				'name': 'Celestron Astro Fi 5 WiFi Schmidt-Cassegrain Telescope',
+				'category': 'Telescopes/Beginner Telescopes/Computerised Telescopes/Celestron Telescopes/Cassegrain Telescopes',
+				'list': 'Product List',
+				'position': '0'
+			} );
+		
+
+/* WooCommerce Facebook Integration Event Tracking */
+fbq('trackCustom', 'ViewCategory', {
+    "source": "woocommerce",
+    "version": "3.3.5",
+    "pluginVersion": "1.7.3",
+    "content_name": "Cassegrain Telescopes",
+    "content_category": "Telescopes, Beginner Telescopes, Computerised Telescopes, Celestron Telescopes, Cassegrain Telescopes",
+    "content_ids": "[\"21061_11930\",\"22094_16652\",\"31045_11824\",\"21074_9957\",\"21024_17075\",\"22203_12059\",\"11049_1482\",\"SWDOB150_10351\",\"11036_365\",\"22401_20082\"]",
+    "content_type": "product"
+});
+
+
+					$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+						ga( 'ec:addProduct', {'id': ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id')),'quantity': $(this).data('quantity')} );
+						ga( 'ec:setAction', 'add' );
+						ga( 'send', 'event', 'UX', 'click', 'add to cart' );
+					});
+				
+
+ga( 'send', 'pageview' ); 
+ });
+</script>
+
+		<style type="text/css">
+	
+	
+
+
+	
+
+	        /***** START: hiding submit button of the price slider ******/
+	        .woof_price_search_container .price_slider_amount button.button{
+	    	display: none;
+	        }
+
+	        .woof_price_search_container .price_slider_amount .price_label{
+	    	text-align: left !important;
+	        }
+
+	        .woof .widget_price_filter .price_slider_amount .button {
+	    	float: left;
+	        }
+
+	        /***** END: hiding submit button of the price slider ******/
+
+
+	
+
+
+
+		        .woof_edit_view{
+	    	display: none;
+	        }
+	
+	</style>
+	
+
+	
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+<script type="text/javascript">
+(function(a,e,c,f,g,b,d){var h={ak:"1065020204",cl:"BpdUCOL50GQQrNbr-wM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+</script>
+<script>
+window.onload = _googWcmGet('number' , '02-9518-7255');
+</script>
+</body>
+</html>
